@@ -1,6 +1,6 @@
 <?php
     $owner = "São José, vulgo melhor programador da funec riacho";
-    $contributor = Luan;
+    $contributor = "Luan';
 ?>
 
 <h1>Pull Request em Dupla</h1>
